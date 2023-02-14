@@ -101,7 +101,7 @@ h1 {
 
 .love:hover {
     color: white;
-    background-image: url("/red-heart.png");
+    background-image: url("./img/red-heart.png");
     background-position: center;
     background-repeat: no-repeat;
     transition: 2s;
